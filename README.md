@@ -36,5 +36,5 @@ Start the backend server:
 
 
 
-npm start
+Node app.js
 The backend server will run at http://localhost:1234
